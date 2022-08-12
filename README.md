@@ -10,7 +10,7 @@ Dataset type - csv file format
 
 Filename - Crime_Data_from_2010_to_2019.csv, Crime_Data_from_2020_to_Present.csv
 
-Instructions to run
+Instructions to run:
 
 1. Download the .ipynb file.
 2. Upload it onto google colab or Jupyter NB
